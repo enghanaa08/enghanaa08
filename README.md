@@ -1,7 +1,9 @@
  Hi👋, I'm Hanaa 
 
 
-- 🔭 I’m currently working on IHH Humanitarian Relief 
--  I’m currently learning Artificail Intellegency
-- 📫 How to reach me: hanaaabdiaziz@gmail.com
+-🔭  **Currently working** with IHH Humanitarian Relief Foundation on humanitarian and data-driven projects.
+- 🤖 ** Exploring AI** and data-driven technologies.
+- Passionate about data analysis, machine learning, and social impact.
+- Ask me about Python, data visualization, or research projects.
+- 📧 **Reach me**: hanaaabdiaziz@gmail.com
 
